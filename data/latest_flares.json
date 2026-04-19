@@ -1,0 +1,5433 @@
+{
+  "meta": {
+    "satellite": "Suomi NPP / VIIRS (NASA FIRMS)",
+    "dataset": "VIIRS_SNPP_NRT",
+    "timestamp": "2026-04-19T15:29:47.703Z",
+    "region": "AFRICA_CONTINENT"
+  },
+  "telemetry": [
+    {
+      "id": "nasa_30.96739_5.74867_28",
+      "lat": 30.96739,
+      "lng": 5.74867,
+      "radiant_heat_mscf": 3.4968,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.97068_5.75318_28",
+      "lat": 30.97068,
+      "lng": 5.75318,
+      "radiant_heat_mscf": 7.6384,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.97448_5.7491_28",
+      "lat": 30.97448,
+      "lng": 5.7491,
+      "radiant_heat_mscf": 4.9104,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.97745_5.76142_28",
+      "lat": 30.97745,
+      "lng": 5.76142,
+      "radiant_heat_mscf": 3.2736,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.01147_8.16945_28",
+      "lat": 31.01147,
+      "lng": 8.16945,
+      "radiant_heat_mscf": 7.7128,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.01177_8.16397_28",
+      "lat": 31.01177,
+      "lng": 8.16397,
+      "radiant_heat_mscf": 7.7128,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.01207_8.15839_28",
+      "lat": 31.01207,
+      "lng": 8.15839,
+      "radiant_heat_mscf": 1.8599999999999999,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.01831_8.159_28",
+      "lat": 31.01831,
+      "lng": 8.159,
+      "radiant_heat_mscf": 1.8599999999999999,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.05653_8.0363_28",
+      "lat": 31.05653,
+      "lng": 8.0363,
+      "radiant_heat_mscf": 7.464799999999999,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.05685_8.03058_28",
+      "lat": 31.05685,
+      "lng": 8.03058,
+      "radiant_heat_mscf": 7.464799999999999,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.18946_6.78988_28",
+      "lat": 31.18946,
+      "lng": 6.78988,
+      "radiant_heat_mscf": 4.2408,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.18976_6.78305_28",
+      "lat": 31.18976,
+      "lng": 6.78305,
+      "radiant_heat_mscf": 5.58,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.35832_6.04726_28",
+      "lat": 31.35832,
+      "lng": 6.04726,
+      "radiant_heat_mscf": 6.894399999999999,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.36298_6.05216_28",
+      "lat": 31.36298,
+      "lng": 6.05216,
+      "radiant_heat_mscf": 5.0592,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.36324_6.04461_28",
+      "lat": 31.36324,
+      "lng": 6.04461,
+      "radiant_heat_mscf": 5.0592,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.36531_6.04767_28",
+      "lat": 31.36531,
+      "lng": 6.04767,
+      "radiant_heat_mscf": 6.894399999999999,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.39028_6.93734_28",
+      "lat": 31.39028,
+      "lng": 6.93734,
+      "radiant_heat_mscf": 3.0256,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.39696_6.93789_28",
+      "lat": 31.39696,
+      "lng": 6.93789,
+      "radiant_heat_mscf": 4.0424,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.39726_6.9311_28",
+      "lat": 31.39726,
+      "lng": 6.9311,
+      "radiant_heat_mscf": 11.135200000000001,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.40093_5.9701_28",
+      "lat": 31.40093,
+      "lng": 5.9701,
+      "radiant_heat_mscf": 0.8432000000000001,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.58251_5.95585_28",
+      "lat": 31.58251,
+      "lng": 5.95585,
+      "radiant_heat_mscf": 2.4055999999999997,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.5828_5.9483_28",
+      "lat": 31.5828,
+      "lng": 5.9483,
+      "radiant_heat_mscf": 5.5304,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.5868_5.95687_28",
+      "lat": 31.5868,
+      "lng": 5.95687,
+      "radiant_heat_mscf": 2.5048,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.58704_5.94933_28",
+      "lat": 31.58704,
+      "lng": 5.94933,
+      "radiant_heat_mscf": 2.5048,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.58955_5.95622_28",
+      "lat": 31.58955,
+      "lng": 5.95622,
+      "radiant_heat_mscf": 2.4055999999999997,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.59384_5.95727_28",
+      "lat": 31.59384,
+      "lng": 5.95727,
+      "radiant_heat_mscf": 2.5048,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.6605_6.06218_28",
+      "lat": 31.6605,
+      "lng": 6.06218,
+      "radiant_heat_mscf": 9.3744,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.66078_6.05456_28",
+      "lat": 31.66078,
+      "lng": 6.05456,
+      "radiant_heat_mscf": 17.4592,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.66107_6.04697_28",
+      "lat": 31.66107,
+      "lng": 6.04697,
+      "radiant_heat_mscf": 17.4592,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.66778_6.05523_28",
+      "lat": 31.66778,
+      "lng": 6.05523,
+      "radiant_heat_mscf": 6.274399999999999,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.66807_6.04754_28",
+      "lat": 31.66807,
+      "lng": 6.04754,
+      "radiant_heat_mscf": 6.274399999999999,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.75408_6.14357_28",
+      "lat": 31.75408,
+      "lng": 6.14357,
+      "radiant_heat_mscf": 2.2816,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.78255_6.06539_28",
+      "lat": 31.78255,
+      "lng": 6.06539,
+      "radiant_heat_mscf": 2.2072,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.78495_6.06876_28",
+      "lat": 31.78495,
+      "lng": 6.06876,
+      "radiant_heat_mscf": 4.0672,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.78524_6.06107_28",
+      "lat": 31.78524,
+      "lng": 6.06107,
+      "radiant_heat_mscf": 4.0672,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.78955_6.06599_28",
+      "lat": 31.78955,
+      "lng": 6.06599,
+      "radiant_heat_mscf": 7.4896,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.79224_6.06162_28",
+      "lat": 31.79224,
+      "lng": 6.06162,
+      "radiant_heat_mscf": 4.0672,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.79955_6.05426_28",
+      "lat": 31.79955,
+      "lng": 6.05426,
+      "radiant_heat_mscf": 2.5048,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.84618_6.05388_28",
+      "lat": 31.84618,
+      "lng": 6.05388,
+      "radiant_heat_mscf": 4.092,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.84646_6.04618_28",
+      "lat": 31.84646,
+      "lng": 6.04618,
+      "radiant_heat_mscf": 8.9528,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.96103_5.21763_28",
+      "lat": 31.96103,
+      "lng": 5.21763,
+      "radiant_heat_mscf": 3.2488,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.96159_5.21579_28",
+      "lat": 31.96159,
+      "lng": 5.21579,
+      "radiant_heat_mscf": 2.3064,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.05206_7.02871_28",
+      "lat": 32.05206,
+      "lng": 7.02871,
+      "radiant_heat_mscf": 4.0424,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.05231_7.02198_28",
+      "lat": 32.05231,
+      "lng": 7.02198,
+      "radiant_heat_mscf": 5.852799999999999,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.05525_7.03008_28",
+      "lat": 32.05525,
+      "lng": 7.03008,
+      "radiant_heat_mscf": 3.1248,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.05555_7.02336_28",
+      "lat": 32.05555,
+      "lng": 7.02336,
+      "radiant_heat_mscf": 3.1248,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.13443_6.46802_28",
+      "lat": 32.13443,
+      "lng": 6.46802,
+      "radiant_heat_mscf": 15.9216,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.17422_7.06179_28",
+      "lat": 32.17422,
+      "lng": 7.06179,
+      "radiant_heat_mscf": 2.7776,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.44534_6.62633_28",
+      "lat": 32.44534,
+      "lng": 6.62633,
+      "radiant_heat_mscf": 1.5624,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.51181_6.71302_28",
+      "lat": 32.51181,
+      "lng": 6.71302,
+      "radiant_heat_mscf": 3.8936,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.51727_6.71043_28",
+      "lat": 32.51727,
+      "lng": 6.71043,
+      "radiant_heat_mscf": 3.0256,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.54546_6.54017_28",
+      "lat": 32.54546,
+      "lng": 6.54017,
+      "radiant_heat_mscf": 2.108,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.54572_6.53277_28",
+      "lat": 32.54572,
+      "lng": 6.53277,
+      "radiant_heat_mscf": 2.108,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_27.57272_22.34184_30",
+      "lat": 27.57272,
+      "lng": 22.34184,
+      "radiant_heat_mscf": 1.3888,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_27.58306_22.40388_30",
+      "lat": 27.58306,
+      "lng": 22.40388,
+      "radiant_heat_mscf": 8.556000000000001,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_27.59482_21.61658_30",
+      "lat": 27.59482,
+      "lng": 21.61658,
+      "radiant_heat_mscf": 2.604,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_27.64359_22.50135_30",
+      "lat": 27.64359,
+      "lng": 22.50135,
+      "radiant_heat_mscf": 18.5752,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_27.64626_22.50624_30",
+      "lat": 27.64626,
+      "lng": 22.50624,
+      "radiant_heat_mscf": 4.3648,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_27.64721_22.48067_30",
+      "lat": 27.64721,
+      "lng": 22.48067,
+      "radiant_heat_mscf": 6.5968,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_27.654_22.48216_30",
+      "lat": 27.654,
+      "lng": 22.48216,
+      "radiant_heat_mscf": 4.6376,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_27.81335_22.43404_30",
+      "lat": 27.81335,
+      "lng": 22.43404,
+      "radiant_heat_mscf": 1.8599999999999999,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_27.94502_22.38464_30",
+      "lat": 27.94502,
+      "lng": 22.38464,
+      "radiant_heat_mscf": 0.7192,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_27.98237_19.90527_30",
+      "lat": 27.98237,
+      "lng": 19.90527,
+      "radiant_heat_mscf": 3.6208,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_27.98567_19.90591_30",
+      "lat": 27.98567,
+      "lng": 19.90591,
+      "radiant_heat_mscf": 13.9376,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_27.98687_22.32485_30",
+      "lat": 27.98687,
+      "lng": 22.32485,
+      "radiant_heat_mscf": 14.9048,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.03368_22.29693_30",
+      "lat": 28.03368,
+      "lng": 22.29693,
+      "radiant_heat_mscf": 1.9096,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.05618_19.91061_30",
+      "lat": 28.05618,
+      "lng": 19.91061,
+      "radiant_heat_mscf": 10.217600000000001,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.07966_9.787_30",
+      "lat": 28.07966,
+      "lng": 9.787,
+      "radiant_heat_mscf": 7.7623999999999995,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.10207_19.25235_30",
+      "lat": 28.10207,
+      "lng": 19.25235,
+      "radiant_heat_mscf": 3.596,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.12882_18.79035_30",
+      "lat": 28.12882,
+      "lng": 18.79035,
+      "radiant_heat_mscf": 5.232799999999999,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.20799_19.91508_30",
+      "lat": 28.20799,
+      "lng": 19.91508,
+      "radiant_heat_mscf": 2.1328,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.37305_21.93893_30",
+      "lat": 28.37305,
+      "lng": 21.93893,
+      "radiant_heat_mscf": 2.2072,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.45024_9.13632_30",
+      "lat": 28.45024,
+      "lng": 9.13632,
+      "radiant_heat_mscf": 2.2568,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.4535_19.52362_30",
+      "lat": 28.4535,
+      "lng": 19.52362,
+      "radiant_heat_mscf": 0.6696000000000001,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.46731_7.50615_30",
+      "lat": 28.46731,
+      "lng": 7.50615,
+      "radiant_heat_mscf": 2.5792,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.47996_7.50732_30",
+      "lat": 28.47996,
+      "lng": 7.50732,
+      "radiant_heat_mscf": 2.3064,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.51675_19.86788_30",
+      "lat": 28.51675,
+      "lng": 19.86788,
+      "radiant_heat_mscf": 1.1408,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.52664_9.12428_30",
+      "lat": 28.52664,
+      "lng": 9.12428,
+      "radiant_heat_mscf": 4.588,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.52671_9.12334_30",
+      "lat": 28.52671,
+      "lng": 9.12334,
+      "radiant_heat_mscf": 5.828,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.52696_9.11975_30",
+      "lat": 28.52696,
+      "lng": 9.11975,
+      "radiant_heat_mscf": 8.0104,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.52706_9.11882_30",
+      "lat": 28.52706,
+      "lng": 9.11882,
+      "radiant_heat_mscf": 5.828,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.58039_17.33025_30",
+      "lat": 28.58039,
+      "lng": 17.33025,
+      "radiant_heat_mscf": 6.894399999999999,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.58396_17.33086_30",
+      "lat": 28.58396,
+      "lng": 17.33086,
+      "radiant_heat_mscf": 6.894399999999999,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.59964_7.25959_30",
+      "lat": 28.59964,
+      "lng": 7.25959,
+      "radiant_heat_mscf": 1.736,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.6341_9.78491_30",
+      "lat": 28.6341,
+      "lng": 9.78491,
+      "radiant_heat_mscf": 5.704,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.63443_9.7808_30",
+      "lat": 28.63443,
+      "lng": 9.7808,
+      "radiant_heat_mscf": 5.704,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.66727_9.19712_30",
+      "lat": 28.66727,
+      "lng": 9.19712,
+      "radiant_heat_mscf": 0.9424,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.68107_21.46015_30",
+      "lat": 28.68107,
+      "lng": 21.46015,
+      "radiant_heat_mscf": 5.5304,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.6947_22.37429_30",
+      "lat": 28.6947,
+      "lng": 22.37429,
+      "radiant_heat_mscf": 15.748,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.69806_22.37503_30",
+      "lat": 28.69806,
+      "lng": 22.37503,
+      "radiant_heat_mscf": 1.364,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.70948_21.45394_30",
+      "lat": 28.70948,
+      "lng": 21.45394,
+      "radiant_heat_mscf": 2.728,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.71279_21.45464_30",
+      "lat": 28.71279,
+      "lng": 21.45464,
+      "radiant_heat_mscf": 2.728,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.73322_9.78846_30",
+      "lat": 28.73322,
+      "lng": 9.78846,
+      "radiant_heat_mscf": 0.5456,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.73441_9.15305_30",
+      "lat": 28.73441,
+      "lng": 9.15305,
+      "radiant_heat_mscf": 6.224799999999999,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.73444_9.15413_30",
+      "lat": 28.73444,
+      "lng": 9.15413,
+      "radiant_heat_mscf": 4.3648,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.73476_9.14955_30",
+      "lat": 28.73476,
+      "lng": 9.14955,
+      "radiant_heat_mscf": 4.3648,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.73877_9.78914_30",
+      "lat": 28.73877,
+      "lng": 9.78914,
+      "radiant_heat_mscf": 1.0664,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.81512_21.28363_30",
+      "lat": 28.81512,
+      "lng": 21.28363,
+      "radiant_heat_mscf": 16.5416,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.81799_9.91169_30",
+      "lat": 28.81799,
+      "lng": 9.91169,
+      "radiant_heat_mscf": 1.4631999999999998,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.81831_9.9076_30",
+      "lat": 28.81831,
+      "lng": 9.9076,
+      "radiant_heat_mscf": 2.0584,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.82025_22.25709_30",
+      "lat": 28.82025,
+      "lng": 22.25709,
+      "radiant_heat_mscf": 4.2904,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.82474_17.38689_30",
+      "lat": 28.82474,
+      "lng": 17.38689,
+      "radiant_heat_mscf": 2.2816,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.82915_21.32317_30",
+      "lat": 28.82915,
+      "lng": 21.32317,
+      "radiant_heat_mscf": 4.8608,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.8348_22.13029_30",
+      "lat": 28.8348,
+      "lng": 22.13029,
+      "radiant_heat_mscf": 0.8184,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.83617_22.12223_30",
+      "lat": 28.83617,
+      "lng": 22.12223,
+      "radiant_heat_mscf": 1.5128,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.86538_9.93842_30",
+      "lat": 28.86538,
+      "lng": 9.93842,
+      "radiant_heat_mscf": 1.3392000000000002,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.86606_9.93696_30",
+      "lat": 28.86606,
+      "lng": 9.93696,
+      "radiant_heat_mscf": 1.8352,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.86953_21.22197_30",
+      "lat": 28.86953,
+      "lng": 21.22197,
+      "radiant_heat_mscf": 4.1415999999999995,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.87609_9.95028_30",
+      "lat": 28.87609,
+      "lng": 9.95028,
+      "radiant_heat_mscf": 0.868,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.88819_20.95863_30",
+      "lat": 28.88819,
+      "lng": 20.95863,
+      "radiant_heat_mscf": 0.9672000000000001,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.89086_20.96322_30",
+      "lat": 28.89086,
+      "lng": 20.96322,
+      "radiant_heat_mscf": 6.0512,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.89149_20.95931_30",
+      "lat": 28.89149,
+      "lng": 20.95931,
+      "radiant_heat_mscf": 8.0104,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.89211_20.95539_30",
+      "lat": 28.89211,
+      "lng": 20.95539,
+      "radiant_heat_mscf": 8.0104,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.89478_20.95999_30",
+      "lat": 28.89478,
+      "lng": 20.95999,
+      "radiant_heat_mscf": 8.0104,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.90074_20.96527_30",
+      "lat": 28.90074,
+      "lng": 20.96527,
+      "radiant_heat_mscf": 1.0415999999999999,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.90592_20.95421_30",
+      "lat": 28.90592,
+      "lng": 20.95421,
+      "radiant_heat_mscf": 1.2152,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.90709_19.77462_30",
+      "lat": 28.90709,
+      "lng": 19.77462,
+      "radiant_heat_mscf": 32.5128,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.90769_19.77066_30",
+      "lat": 28.90769,
+      "lng": 19.77066,
+      "radiant_heat_mscf": 32.5128,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.90828_19.76673_30",
+      "lat": 28.90828,
+      "lng": 19.76673,
+      "radiant_heat_mscf": 4.0176,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.91041_19.77526_30",
+      "lat": 28.91041,
+      "lng": 19.77526,
+      "radiant_heat_mscf": 32.5128,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.91063_20.96732_30",
+      "lat": 28.91063,
+      "lng": 20.96732,
+      "radiant_heat_mscf": 9.052,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.91101_19.77131_30",
+      "lat": 28.91101,
+      "lng": 19.77131,
+      "radiant_heat_mscf": 32.5128,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.91161_19.76737_30",
+      "lat": 28.91161,
+      "lng": 19.76737,
+      "radiant_heat_mscf": 4.0176,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.9131_9.74764_30",
+      "lat": 28.9131,
+      "lng": 9.74764,
+      "radiant_heat_mscf": 18.104,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.91341_9.74345_30",
+      "lat": 28.91341,
+      "lng": 9.74345,
+      "radiant_heat_mscf": 18.104,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.91373_19.77591_30",
+      "lat": 28.91373,
+      "lng": 19.77591,
+      "radiant_heat_mscf": 1.4136,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.91433_19.77195_30",
+      "lat": 28.91433,
+      "lng": 19.77195,
+      "radiant_heat_mscf": 1.4136,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.91456_20.96409_30",
+      "lat": 28.91456,
+      "lng": 20.96409,
+      "radiant_heat_mscf": 0.992,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.92524_21.50554_30",
+      "lat": 28.92524,
+      "lng": 21.50554,
+      "radiant_heat_mscf": 1.6616000000000002,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.97532_17.46379_30",
+      "lat": 28.97532,
+      "lng": 17.46379,
+      "radiant_heat_mscf": 0.6696000000000001,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.03807_20.78641_30",
+      "lat": 29.03807,
+      "lng": 20.78641,
+      "radiant_heat_mscf": 19.939199999999996,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.04136_20.78709_30",
+      "lat": 29.04136,
+      "lng": 20.78709,
+      "radiant_heat_mscf": 2.0584,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.04198_20.78318_30",
+      "lat": 29.04198,
+      "lng": 20.78318,
+      "radiant_heat_mscf": 2.0584,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.05516_20.78589_30",
+      "lat": 29.05516,
+      "lng": 20.78589,
+      "radiant_heat_mscf": 4.712,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.07033_19.05908_30",
+      "lat": 29.07033,
+      "lng": 19.05908,
+      "radiant_heat_mscf": 1.9096,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.07251_19.06791_30",
+      "lat": 29.07251,
+      "lng": 19.06791,
+      "radiant_heat_mscf": 8.556000000000001,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.0731_19.06381_30",
+      "lat": 29.0731,
+      "lng": 19.06381,
+      "radiant_heat_mscf": 8.556000000000001,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.0737_19.05971_30",
+      "lat": 29.0737,
+      "lng": 19.05971,
+      "radiant_heat_mscf": 28.371199999999998,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.10677_9.6657_30",
+      "lat": 29.10677,
+      "lng": 9.6657,
+      "radiant_heat_mscf": 4.2904,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.10941_9.66682_30",
+      "lat": 29.10941,
+      "lng": 9.66682,
+      "radiant_heat_mscf": 3.968,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.18926_21.42929_30",
+      "lat": 29.18926,
+      "lng": 21.42929,
+      "radiant_heat_mscf": 1.9592,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.1903_21.52761_30",
+      "lat": 29.1903,
+      "lng": 21.52761,
+      "radiant_heat_mscf": 6.0512,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.19256_21.42998_30",
+      "lat": 29.19256,
+      "lng": 21.42998,
+      "radiant_heat_mscf": 1.9592,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.2143_21.6461_30",
+      "lat": 29.2143,
+      "lng": 21.6461,
+      "radiant_heat_mscf": 4.5136,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.21496_21.64213_30",
+      "lat": 29.21496,
+      "lng": 21.64213,
+      "radiant_heat_mscf": 4.3648,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.22997_21.55104_30",
+      "lat": 29.22997,
+      "lng": 21.55104,
+      "radiant_heat_mscf": 0.6696000000000001,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.23063_19.69479_30",
+      "lat": 29.23063,
+      "lng": 19.69479,
+      "radiant_heat_mscf": 35.1416,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.23335_19.69943_30",
+      "lat": 29.23335,
+      "lng": 19.69943,
+      "radiant_heat_mscf": 52.2288,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.23396_19.69543_30",
+      "lat": 29.23396,
+      "lng": 19.69543,
+      "radiant_heat_mscf": 35.1416,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.26666_6.49039_30",
+      "lat": 29.26666,
+      "lng": 6.49039,
+      "radiant_heat_mscf": 1.9592,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.44271_17.97035_30",
+      "lat": 29.44271,
+      "lng": 17.97035,
+      "radiant_heat_mscf": 2.852,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.48321_17.93651_30",
+      "lat": 29.48321,
+      "lng": 17.93651,
+      "radiant_heat_mscf": 1.3144,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.66975_6.72549_30",
+      "lat": 29.66975,
+      "lng": 6.72549,
+      "radiant_heat_mscf": 3.0504,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.67009_6.7189_30",
+      "lat": 29.67009,
+      "lng": 6.7189,
+      "radiant_heat_mscf": 3.6456,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.68771_6.69486_30",
+      "lat": 29.68771,
+      "lng": 6.69486,
+      "radiant_heat_mscf": 3.844,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.69117_6.70044_30",
+      "lat": 29.69117,
+      "lng": 6.70044,
+      "radiant_heat_mscf": 5.4064000000000005,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.69409_6.70199_30",
+      "lat": 29.69409,
+      "lng": 6.70199,
+      "radiant_heat_mscf": 6.7703999999999995,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.6944_6.69535_30",
+      "lat": 29.6944,
+      "lng": 6.69535,
+      "radiant_heat_mscf": 6.7703999999999995,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.6975_6.70753_30",
+      "lat": 29.6975,
+      "lng": 6.70753,
+      "radiant_heat_mscf": 4.1912,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.69785_6.70089_30",
+      "lat": 29.69785,
+      "lng": 6.70089,
+      "radiant_heat_mscf": 4.1912,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.70046_6.70912_30",
+      "lat": 29.70046,
+      "lng": 6.70912,
+      "radiant_heat_mscf": 9.7216,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.70383_6.71461_30",
+      "lat": 29.70383,
+      "lng": 6.71461,
+      "radiant_heat_mscf": 5.5552,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.70418_6.70798_30",
+      "lat": 29.70418,
+      "lng": 6.70798,
+      "radiant_heat_mscf": 4.1912,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.82233_17.29189_30",
+      "lat": 29.82233,
+      "lng": 17.29189,
+      "radiant_heat_mscf": 3.3728000000000002,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.1759_7.68884_30",
+      "lat": 30.1759,
+      "lng": 7.68884,
+      "radiant_heat_mscf": 19.3192,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.17624_7.68302_30",
+      "lat": 30.17624,
+      "lng": 7.68302,
+      "radiant_heat_mscf": 19.3192,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.17815_7.68926_30",
+      "lat": 30.17815,
+      "lng": 7.68926,
+      "radiant_heat_mscf": 27.652,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.17845_7.68353_30",
+      "lat": 30.17845,
+      "lng": 7.68353,
+      "radiant_heat_mscf": 32.8104,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.18227_7.68914_30",
+      "lat": 30.18227,
+      "lng": 7.68914,
+      "radiant_heat_mscf": 19.3192,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.18261_7.68347_30",
+      "lat": 30.18261,
+      "lng": 7.68347,
+      "radiant_heat_mscf": 19.3192,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.18451_7.68971_30",
+      "lat": 30.18451,
+      "lng": 7.68971,
+      "radiant_heat_mscf": 27.652,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.18482_7.68403_30",
+      "lat": 30.18482,
+      "lng": 7.68403,
+      "radiant_heat_mscf": 32.8104,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.18862_7.68964_30",
+      "lat": 30.18862,
+      "lng": 7.68964,
+      "radiant_heat_mscf": 10.391200000000001,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.18896_7.68394_30",
+      "lat": 30.18896,
+      "lng": 7.68394,
+      "radiant_heat_mscf": 10.391200000000001,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.19118_7.68449_30",
+      "lat": 30.19118,
+      "lng": 7.68449,
+      "radiant_heat_mscf": 10.664,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.25431_8.08397_30",
+      "lat": 30.25431,
+      "lng": 8.08397,
+      "radiant_heat_mscf": 2.3808,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.25661_8.08478_30",
+      "lat": 30.25661,
+      "lng": 8.08478,
+      "radiant_heat_mscf": 2.8023999999999996,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.37541_7.01046_30",
+      "lat": 30.37541,
+      "lng": 7.01046,
+      "radiant_heat_mscf": 4.5632,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.38748_7.90515_30",
+      "lat": 30.38748,
+      "lng": 7.90515,
+      "radiant_heat_mscf": 2.232,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.39048_7.90457_30",
+      "lat": 30.39048,
+      "lng": 7.90457,
+      "radiant_heat_mscf": 2.0584,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.60738_8.26201_30",
+      "lat": 30.60738,
+      "lng": 8.26201,
+      "radiant_heat_mscf": 2.9015999999999997,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.61356_8.26249_30",
+      "lat": 30.61356,
+      "lng": 8.26249,
+      "radiant_heat_mscf": 16.0208,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.61387_8.25715_30",
+      "lat": 30.61387,
+      "lng": 8.25715,
+      "radiant_heat_mscf": 15.4256,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.66061_8.09927_30",
+      "lat": 30.66061,
+      "lng": 8.09927,
+      "radiant_heat_mscf": 3.0504,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.66408_8.10471_30",
+      "lat": 30.66408,
+      "lng": 8.10471,
+      "radiant_heat_mscf": 4.4888,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.66439_8.09901_30",
+      "lat": 30.66439,
+      "lng": 8.09901,
+      "radiant_heat_mscf": 7.688,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.66649_8.10561_30",
+      "lat": 30.66649,
+      "lng": 8.10561,
+      "radiant_heat_mscf": 3.0504,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.66684_8.09992_30",
+      "lat": 30.66684,
+      "lng": 8.09992,
+      "radiant_heat_mscf": 3.0504,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.87525_5.63674_30",
+      "lat": 30.87525,
+      "lng": 5.63674,
+      "radiant_heat_mscf": 4.7368,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.87875_5.63906_30",
+      "lat": 30.87875,
+      "lng": 5.63906,
+      "radiant_heat_mscf": 6.1504,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.89523_5.58378_30",
+      "lat": 30.89523,
+      "lng": 5.58378,
+      "radiant_heat_mscf": 5.1584,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.89855_5.58191_30",
+      "lat": 30.89855,
+      "lng": 5.58191,
+      "radiant_heat_mscf": 3.7944,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_3.99056_7.2889_35",
+      "lat": 3.99056,
+      "lng": 7.2889,
+      "radiant_heat_mscf": 5.2576,
+      "attribution": {
+        "block": "Niger Delta Basin",
+        "operator": "NNPC / Shell / Chevron",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_3.9915_7.28716_35",
+      "lat": 3.9915,
+      "lng": 7.28716,
+      "radiant_heat_mscf": 7.1176,
+      "attribution": {
+        "block": "Niger Delta Basin",
+        "operator": "NNPC / Shell / Chevron",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_4.65756_6.07587_35",
+      "lat": 4.65756,
+      "lng": 6.07587,
+      "radiant_heat_mscf": 3.7696,
+      "attribution": {
+        "block": "Niger Delta Basin",
+        "operator": "NNPC / Shell / Chevron",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_4.66278_6.07666_35",
+      "lat": 4.66278,
+      "lng": 6.07666,
+      "radiant_heat_mscf": 4.464,
+      "attribution": {
+        "block": "Niger Delta Basin",
+        "operator": "NNPC / Shell / Chevron",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_4.66324_6.07352_35",
+      "lat": 4.66324,
+      "lng": 6.07352,
+      "radiant_heat_mscf": 3.5711999999999997,
+      "attribution": {
+        "block": "Niger Delta Basin",
+        "operator": "NNPC / Shell / Chevron",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_5.35903_4.33765_35",
+      "lat": 5.35903,
+      "lng": 4.33765,
+      "radiant_heat_mscf": 8.556000000000001,
+      "attribution": {
+        "block": "Niger Delta Basin",
+        "operator": "NNPC / Shell / Chevron",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_-8.85941_13.35195_39",
+      "lat": -8.85941,
+      "lng": 13.35195,
+      "radiant_heat_mscf": 1.6616000000000002,
+      "attribution": {
+        "block": "Angola Block 0/17",
+        "operator": "Chevron / Total",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_-8.79718_13.42522_39",
+      "lat": -8.79718,
+      "lng": 13.42522,
+      "radiant_heat_mscf": 1.2648,
+      "attribution": {
+        "block": "Angola Block 0/17",
+        "operator": "Chevron / Total",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_-7.84906_12.11348_39",
+      "lat": -7.84906,
+      "lng": 12.11348,
+      "radiant_heat_mscf": 17.8064,
+      "attribution": {
+        "block": "Angola Block 0/17",
+        "operator": "Chevron / Total",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_-7.84851_12.11_39",
+      "lat": -7.84851,
+      "lng": 12.11,
+      "radiant_heat_mscf": 11.6808,
+      "attribution": {
+        "block": "Angola Block 0/17",
+        "operator": "Chevron / Total",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_-7.84574_12.114_39",
+      "lat": -7.84574,
+      "lng": 12.114,
+      "radiant_heat_mscf": 16.7648,
+      "attribution": {
+        "block": "Angola Block 0/17",
+        "operator": "Chevron / Total",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_-7.84519_12.11053_39",
+      "lat": -7.84519,
+      "lng": 12.11053,
+      "radiant_heat_mscf": 12.4992,
+      "attribution": {
+        "block": "Angola Block 0/17",
+        "operator": "Chevron / Total",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_-7.68483_11.76224_39",
+      "lat": -7.68483,
+      "lng": 11.76224,
+      "radiant_heat_mscf": 5.58,
+      "attribution": {
+        "block": "Angola Block 0/17",
+        "operator": "Chevron / Total",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_-7.0675_12.41219_39",
+      "lat": -7.0675,
+      "lng": 12.41219,
+      "radiant_heat_mscf": 1.9344000000000001,
+      "attribution": {
+        "block": "Angola Block 0/17",
+        "operator": "Chevron / Total",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_-7.06695_12.40872_39",
+      "lat": -7.06695,
+      "lng": 12.40872,
+      "radiant_heat_mscf": 1.9344000000000001,
+      "attribution": {
+        "block": "Angola Block 0/17",
+        "operator": "Chevron / Total",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_-6.86129_12.39187_39",
+      "lat": -6.86129,
+      "lng": 12.39187,
+      "radiant_heat_mscf": 12.375200000000001,
+      "attribution": {
+        "block": "Angola Block 0/17",
+        "operator": "Chevron / Total",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_-6.85852_12.39587_39",
+      "lat": -6.85852,
+      "lng": 12.39587,
+      "radiant_heat_mscf": 12.375200000000001,
+      "attribution": {
+        "block": "Angola Block 0/17",
+        "operator": "Chevron / Total",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_-6.85797_12.3924_39",
+      "lat": -6.85797,
+      "lng": 12.3924,
+      "radiant_heat_mscf": 12.375200000000001,
+      "attribution": {
+        "block": "Angola Block 0/17",
+        "operator": "Chevron / Total",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_-6.85742_12.38893_39",
+      "lat": -6.85742,
+      "lng": 12.38893,
+      "radiant_heat_mscf": 3.4223999999999997,
+      "attribution": {
+        "block": "Angola Block 0/17",
+        "operator": "Chevron / Total",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_-6.8552_12.39639_39",
+      "lat": -6.8552,
+      "lng": 12.39639,
+      "radiant_heat_mscf": 2.7776,
+      "attribution": {
+        "block": "Angola Block 0/17",
+        "operator": "Chevron / Total",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_-6.85465_12.39292_39",
+      "lat": -6.85465,
+      "lng": 12.39292,
+      "radiant_heat_mscf": 2.7776,
+      "attribution": {
+        "block": "Angola Block 0/17",
+        "operator": "Chevron / Total",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_-6.31994_11.05285_39",
+      "lat": -6.31994,
+      "lng": 11.05285,
+      "radiant_heat_mscf": 7.9112,
+      "attribution": {
+        "block": "Angola Block 0/17",
+        "operator": "Chevron / Total",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_-6.21463_12.39487_39",
+      "lat": -6.21463,
+      "lng": 12.39487,
+      "radiant_heat_mscf": 2.5544000000000002,
+      "attribution": {
+        "block": "Angola Block 0/17",
+        "operator": "Chevron / Total",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_-6.21206_12.39514_39",
+      "lat": -6.21206,
+      "lng": 12.39514,
+      "radiant_heat_mscf": 1.612,
+      "attribution": {
+        "block": "Angola Block 0/17",
+        "operator": "Chevron / Total",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_-6.16027_11.26893_39",
+      "lat": -6.16027,
+      "lng": 11.26893,
+      "radiant_heat_mscf": 5.232799999999999,
+      "attribution": {
+        "block": "Angola Block 0/17",
+        "operator": "Chevron / Total",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_-6.14247_11.03015_39",
+      "lat": -6.14247,
+      "lng": 11.03015,
+      "radiant_heat_mscf": 9.1264,
+      "attribution": {
+        "block": "Angola Block 0/17",
+        "operator": "Chevron / Total",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_-6.1391_11.03069_39",
+      "lat": -6.1391,
+      "lng": 11.03069,
+      "radiant_heat_mscf": 9.1264,
+      "attribution": {
+        "block": "Angola Block 0/17",
+        "operator": "Chevron / Total",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_-6.11755_12.33553_39",
+      "lat": -6.11755,
+      "lng": 12.33553,
+      "radiant_heat_mscf": 3.596,
+      "attribution": {
+        "block": "Angola Block 0/17",
+        "operator": "Chevron / Total",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_-6.07252_11.35555_39",
+      "lat": -6.07252,
+      "lng": 11.35555,
+      "radiant_heat_mscf": 6.448,
+      "attribution": {
+        "block": "Angola Block 0/17",
+        "operator": "Chevron / Total",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_-6.06917_11.35609_39",
+      "lat": -6.06917,
+      "lng": 11.35609,
+      "radiant_heat_mscf": 6.448,
+      "attribution": {
+        "block": "Angola Block 0/17",
+        "operator": "Chevron / Total",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_-5.96591_12.17124_39",
+      "lat": -5.96591,
+      "lng": 12.17124,
+      "radiant_heat_mscf": 5.232799999999999,
+      "attribution": {
+        "block": "Angola Block 0/17",
+        "operator": "Chevron / Total",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_-5.84555_12.13393_39",
+      "lat": -5.84555,
+      "lng": 12.13393,
+      "radiant_heat_mscf": 1.9344000000000001,
+      "attribution": {
+        "block": "Angola Block 0/17",
+        "operator": "Chevron / Total",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_-5.84223_12.13445_39",
+      "lat": -5.84223,
+      "lng": 12.13445,
+      "radiant_heat_mscf": 1.9344000000000001,
+      "attribution": {
+        "block": "Angola Block 0/17",
+        "operator": "Chevron / Total",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_-5.82101_12.32249_39",
+      "lat": -5.82101,
+      "lng": 12.32249,
+      "radiant_heat_mscf": 2.1576,
+      "attribution": {
+        "block": "Angola Block 0/17",
+        "operator": "Chevron / Total",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_-5.66214_11.80977_39",
+      "lat": -5.66214,
+      "lng": 11.80977,
+      "radiant_heat_mscf": 6.2,
+      "attribution": {
+        "block": "Angola Block 0/17",
+        "operator": "Chevron / Total",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_-5.38029_11.44326_39",
+      "lat": -5.38029,
+      "lng": 11.44326,
+      "radiant_heat_mscf": 6.0016,
+      "attribution": {
+        "block": "Angola Block 0/17",
+        "operator": "Chevron / Total",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_-5.27414_11.56586_39",
+      "lat": -5.27414,
+      "lng": 11.56586,
+      "radiant_heat_mscf": 5.5304,
+      "attribution": {
+        "block": "Angola Block 0/17",
+        "operator": "Chevron / Total",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.07644_9.78577_211",
+      "lat": 28.07644,
+      "lng": 9.78577,
+      "radiant_heat_mscf": 4.588,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.07892_9.7861_211",
+      "lat": 28.07892,
+      "lng": 9.7861,
+      "radiant_heat_mscf": 6.3984000000000005,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.08292_9.78814_211",
+      "lat": 28.08292,
+      "lng": 9.78814,
+      "radiant_heat_mscf": 4.588,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.44951_9.1363_211",
+      "lat": 28.44951,
+      "lng": 9.1363,
+      "radiant_heat_mscf": 5.604799999999999,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.44978_9.13656_211",
+      "lat": 28.44978,
+      "lng": 9.13656,
+      "radiant_heat_mscf": 4.5136,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.47194_7.50965_211",
+      "lat": 28.47194,
+      "lng": 7.50965,
+      "radiant_heat_mscf": 1.4384,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.47773_7.51141_211",
+      "lat": 28.47773,
+      "lng": 7.51141,
+      "radiant_heat_mscf": 1.4384,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.5286_9.12269_211",
+      "lat": 28.5286,
+      "lng": 9.12269,
+      "radiant_heat_mscf": 7.0927999999999995,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.55709_7.51775_211",
+      "lat": 28.55709,
+      "lng": 7.51775,
+      "radiant_heat_mscf": 0.992,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.55863_7.46216_211",
+      "lat": 28.55863,
+      "lng": 7.46216,
+      "radiant_heat_mscf": 0.9672000000000001,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.56163_7.51828_211",
+      "lat": 28.56163,
+      "lng": 7.51828,
+      "radiant_heat_mscf": 0.992,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.57607_7.65683_211",
+      "lat": 28.57607,
+      "lng": 7.65683,
+      "radiant_heat_mscf": 1.984,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.63158_9.78996_211",
+      "lat": 28.63158,
+      "lng": 9.78996,
+      "radiant_heat_mscf": 3.5216,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.63161_9.78219_211",
+      "lat": 28.63161,
+      "lng": 9.78219,
+      "radiant_heat_mscf": 4.216,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.6333_9.78359_211",
+      "lat": 28.6333,
+      "lng": 9.78359,
+      "radiant_heat_mscf": 5.356800000000001,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.63802_9.78451_211",
+      "lat": 28.63802,
+      "lng": 9.78451,
+      "radiant_heat_mscf": 4.96,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.66091_7.91175_211",
+      "lat": 28.66091,
+      "lng": 7.91175,
+      "radiant_heat_mscf": 0.868,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.73367_9.15419_211",
+      "lat": 28.73367,
+      "lng": 9.15419,
+      "radiant_heat_mscf": 6.2992,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.73462_9.79149_211",
+      "lat": 28.73462,
+      "lng": 9.79149,
+      "radiant_heat_mscf": 1.8104,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.73857_9.79208_211",
+      "lat": 28.73857,
+      "lng": 9.79208,
+      "radiant_heat_mscf": 2.5792,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.81848_9.91198_211",
+      "lat": 28.81848,
+      "lng": 9.91198,
+      "radiant_heat_mscf": 1.984,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.86607_9.93594_211",
+      "lat": 28.86607,
+      "lng": 9.93594,
+      "radiant_heat_mscf": 1.984,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.90995_9.75021_211",
+      "lat": 28.90995,
+      "lng": 9.75021,
+      "radiant_heat_mscf": 11.5816,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.91166_9.74398_211",
+      "lat": 28.91166,
+      "lng": 9.74398,
+      "radiant_heat_mscf": 11.5816,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.91802_9.74627_211",
+      "lat": 28.91802,
+      "lng": 9.74627,
+      "radiant_heat_mscf": 11.5816,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.26288_6.48941_211",
+      "lat": 29.26288,
+      "lng": 6.48941,
+      "radiant_heat_mscf": 1.24,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.26822_6.49116_211",
+      "lat": 29.26822,
+      "lng": 6.49116,
+      "radiant_heat_mscf": 0.6944,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.66847_6.72441_211",
+      "lat": 29.66847,
+      "lng": 6.72441,
+      "radiant_heat_mscf": 2.3808,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.6862_6.69977_211",
+      "lat": 29.6862,
+      "lng": 6.69977,
+      "radiant_heat_mscf": 2.0831999999999997,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.68719_6.69575_211",
+      "lat": 29.68719,
+      "lng": 6.69575,
+      "radiant_heat_mscf": 2.0831999999999997,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.69155_6.70154_211",
+      "lat": 29.69155,
+      "lng": 6.70154,
+      "radiant_heat_mscf": 2.9263999999999997,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.69592_6.70733_211",
+      "lat": 29.69592,
+      "lng": 6.70733,
+      "radiant_heat_mscf": 5.2576,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.69691_6.70332_211",
+      "lat": 29.69691,
+      "lng": 6.70332,
+      "radiant_heat_mscf": 2.9263999999999997,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.6979_6.69931_211",
+      "lat": 29.6979,
+      "lng": 6.69931,
+      "radiant_heat_mscf": 2.9263999999999997,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.70028_6.71312_211",
+      "lat": 29.70028,
+      "lng": 6.71312,
+      "radiant_heat_mscf": 3.7448,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.70127_6.70911_211",
+      "lat": 29.70127,
+      "lng": 6.70911,
+      "radiant_heat_mscf": 3.7448,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.3749_7.01031_211",
+      "lat": 30.3749,
+      "lng": 7.01031,
+      "radiant_heat_mscf": 4.3648,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.39823_6.54227_211",
+      "lat": 30.39823,
+      "lng": 6.54227,
+      "radiant_heat_mscf": 0.744,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.61264_8.26367_211",
+      "lat": 30.61264,
+      "lng": 8.26367,
+      "radiant_heat_mscf": 1.4136,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.66093_8.10191_211",
+      "lat": 30.66093,
+      "lng": 8.10191,
+      "radiant_heat_mscf": 2.3808,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.66661_8.10375_211",
+      "lat": 30.66661,
+      "lng": 8.10375,
+      "radiant_heat_mscf": 2.3808,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.87658_5.644_211",
+      "lat": 30.87658,
+      "lng": 5.644,
+      "radiant_heat_mscf": 3.472,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.87739_5.64069_211",
+      "lat": 30.87739,
+      "lng": 5.64069,
+      "radiant_heat_mscf": 4.0424,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.87787_5.64489_211",
+      "lat": 30.87787,
+      "lng": 5.64489,
+      "radiant_heat_mscf": 3.9928000000000003,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.87866_5.64155_211",
+      "lat": 30.87866,
+      "lng": 5.64155,
+      "radiant_heat_mscf": 4.96,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.89584_5.5862_211",
+      "lat": 30.89584,
+      "lng": 5.5862,
+      "radiant_heat_mscf": 2.7032000000000003,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.89664_5.5829_211",
+      "lat": 30.89664,
+      "lng": 5.5829,
+      "radiant_heat_mscf": 5.0096,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.89752_5.58362_211",
+      "lat": 30.89752,
+      "lng": 5.58362,
+      "radiant_heat_mscf": 5.2824,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.97108_5.75543_211",
+      "lat": 30.97108,
+      "lng": 5.75543,
+      "radiant_heat_mscf": 2.6288,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.97251_5.75432_211",
+      "lat": 30.97251,
+      "lng": 5.75432,
+      "radiant_heat_mscf": 2.9263999999999997,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.01051_8.17211_211",
+      "lat": 31.01051,
+      "lng": 8.17211,
+      "radiant_heat_mscf": 3.4471999999999996,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.01084_8.17392_211",
+      "lat": 31.01084,
+      "lng": 8.17392,
+      "radiant_heat_mscf": 2.5792,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.01171_8.16746_211",
+      "lat": 31.01171,
+      "lng": 8.16746,
+      "radiant_heat_mscf": 2.4304,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.01205_8.16933_211",
+      "lat": 31.01205,
+      "lng": 8.16933,
+      "radiant_heat_mscf": 2.5792,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.01292_8.16275_211",
+      "lat": 31.01292,
+      "lng": 8.16275,
+      "radiant_heat_mscf": 2.4304,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.0133_8.16462_211",
+      "lat": 31.0133,
+      "lng": 8.16462,
+      "radiant_heat_mscf": 3.6208,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.05235_8.03296_211",
+      "lat": 31.05235,
+      "lng": 8.03296,
+      "radiant_heat_mscf": 2.7032000000000003,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.05352_8.03516_211",
+      "lat": 31.05352,
+      "lng": 8.03516,
+      "radiant_heat_mscf": 5.084,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.0547_8.03071_211",
+      "lat": 31.0547,
+      "lng": 8.03071,
+      "radiant_heat_mscf": 4.8111999999999995,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.05674_8.03949_211",
+      "lat": 31.05674,
+      "lng": 8.03949,
+      "radiant_heat_mscf": 3.968,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.05789_8.035_211",
+      "lat": 31.05789,
+      "lng": 8.035,
+      "radiant_heat_mscf": 7.3904,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.05907_8.03721_211",
+      "lat": 31.05907,
+      "lng": 8.03721,
+      "radiant_heat_mscf": 1.8352,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.187_6.78654_211",
+      "lat": 31.187,
+      "lng": 6.78654,
+      "radiant_heat_mscf": 1.5128,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.2289_8.56239_211",
+      "lat": 31.2289,
+      "lng": 8.56239,
+      "radiant_heat_mscf": 2.4055999999999997,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.35732_6.0503_211",
+      "lat": 31.35732,
+      "lng": 6.0503,
+      "radiant_heat_mscf": 2.1824,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.3623_6.05196_211",
+      "lat": 31.3623,
+      "lng": 6.05196,
+      "radiant_heat_mscf": 2.48,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.36313_6.04851_211",
+      "lat": 31.36313,
+      "lng": 6.04851,
+      "radiant_heat_mscf": 2.9512,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.36397_6.04507_211",
+      "lat": 31.36397,
+      "lng": 6.04507,
+      "radiant_heat_mscf": 2.9512,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.39231_6.94048_211",
+      "lat": 31.39231,
+      "lng": 6.94048,
+      "radiant_heat_mscf": 3.1496,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.39422_6.9328_211",
+      "lat": 31.39422,
+      "lng": 6.9328,
+      "radiant_heat_mscf": 6.324,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.39944_6.93454_211",
+      "lat": 31.39944,
+      "lng": 6.93454,
+      "radiant_heat_mscf": 2.5296,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.40361_5.96982_211",
+      "lat": 31.40361,
+      "lng": 5.96982,
+      "radiant_heat_mscf": 1.7608,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.5852_5.95621_211",
+      "lat": 31.5852,
+      "lng": 5.95621,
+      "radiant_heat_mscf": 2.48,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.58587_5.95686_211",
+      "lat": 31.58587,
+      "lng": 5.95686,
+      "radiant_heat_mscf": 2.7032000000000003,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.58603_5.95281_211",
+      "lat": 31.58603,
+      "lng": 5.95281,
+      "radiant_heat_mscf": 6.82,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.58668_5.95346_211",
+      "lat": 31.58668,
+      "lng": 5.95346,
+      "radiant_heat_mscf": 4.166399999999999,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.59012_5.95785_211",
+      "lat": 31.59012,
+      "lng": 5.95785,
+      "radiant_heat_mscf": 2.48,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.63394_6.06364_211",
+      "lat": 31.63394,
+      "lng": 6.06364,
+      "radiant_heat_mscf": 0.44639999999999996,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.6461_5.99053_211",
+      "lat": 31.6461,
+      "lng": 5.99053,
+      "radiant_heat_mscf": 0.868,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.6593_6.06027_211",
+      "lat": 31.6593,
+      "lng": 6.06027,
+      "radiant_heat_mscf": 4.4888,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.66014_6.05685_211",
+      "lat": 31.66014,
+      "lng": 6.05685,
+      "radiant_heat_mscf": 8.9776,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.66097_6.05345_211",
+      "lat": 31.66097,
+      "lng": 6.05345,
+      "radiant_heat_mscf": 8.9776,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.66117_6.06142_211",
+      "lat": 31.66117,
+      "lng": 6.06142,
+      "radiant_heat_mscf": 8.1096,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.6618_6.05006_211",
+      "lat": 31.6618,
+      "lng": 6.05006,
+      "radiant_heat_mscf": 10.416,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.66198_6.05802_211",
+      "lat": 31.66198,
+      "lng": 6.05802,
+      "radiant_heat_mscf": 15.8968,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.66279_6.05462_211",
+      "lat": 31.66279,
+      "lng": 6.05462,
+      "radiant_heat_mscf": 15.8968,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.6636_6.0512_211",
+      "lat": 31.6636,
+      "lng": 6.0512,
+      "radiant_heat_mscf": 10.8872,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.66427_6.06181_211",
+      "lat": 31.66427,
+      "lng": 6.06181,
+      "radiant_heat_mscf": 4.4888,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.66441_6.04778_211",
+      "lat": 31.66441,
+      "lng": 6.04778,
+      "radiant_heat_mscf": 10.8872,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.66511_6.05841_211",
+      "lat": 31.66511,
+      "lng": 6.05841,
+      "radiant_heat_mscf": 8.9776,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.66593_6.05501_211",
+      "lat": 31.66593,
+      "lng": 6.05501,
+      "radiant_heat_mscf": 8.9776,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.66677_6.0516_211",
+      "lat": 31.66677,
+      "lng": 6.0516,
+      "radiant_heat_mscf": 10.416,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.66695_6.05954_211",
+      "lat": 31.66695,
+      "lng": 6.05954,
+      "radiant_heat_mscf": 2.3312,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.66776_6.05614_211",
+      "lat": 31.66776,
+      "lng": 6.05614,
+      "radiant_heat_mscf": 2.3312,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.68998_5.80634_211",
+      "lat": 31.68998,
+      "lng": 5.80634,
+      "radiant_heat_mscf": 1.6864000000000001,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.69504_5.96336_211",
+      "lat": 31.69504,
+      "lng": 5.96336,
+      "radiant_heat_mscf": 0.5704,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.70525_5.95914_211",
+      "lat": 31.70525,
+      "lng": 5.95914,
+      "radiant_heat_mscf": 0.2976,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.74986_5.22766_211",
+      "lat": 31.74986,
+      "lng": 5.22766,
+      "radiant_heat_mscf": 2.1576,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.75072_5.22761_211",
+      "lat": 31.75072,
+      "lng": 5.22761,
+      "radiant_heat_mscf": 1.4631999999999998,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.75533_6.14304_211",
+      "lat": 31.75533,
+      "lng": 6.14304,
+      "radiant_heat_mscf": 1.612,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.75677_6.14406_211",
+      "lat": 31.75677,
+      "lng": 6.14406,
+      "radiant_heat_mscf": 0.6448,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.7851_6.06498_211",
+      "lat": 31.7851,
+      "lng": 6.06498,
+      "radiant_heat_mscf": 4.092,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.79005_6.06658_211",
+      "lat": 31.79005,
+      "lng": 6.06658,
+      "radiant_heat_mscf": 3.1,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.79826_6.05472_211",
+      "lat": 31.79826,
+      "lng": 6.05472,
+      "radiant_heat_mscf": 1.9592,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.80718_5.99608_211",
+      "lat": 31.80718,
+      "lng": 5.99608,
+      "radiant_heat_mscf": 1.1408,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.84642_5.05257_211",
+      "lat": 31.84642,
+      "lng": 5.05257,
+      "radiant_heat_mscf": 1.9344000000000001,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.84664_6.05271_211",
+      "lat": 31.84664,
+      "lng": 6.05271,
+      "radiant_heat_mscf": 2.7776,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.84744_6.04935_211",
+      "lat": 31.84744,
+      "lng": 6.04935,
+      "radiant_heat_mscf": 2.7776,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.84904_6.04269_211",
+      "lat": 31.84904,
+      "lng": 6.04269,
+      "radiant_heat_mscf": 2.6784000000000003,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.9584_5.21737_211",
+      "lat": 31.9584,
+      "lng": 5.21737,
+      "radiant_heat_mscf": 1.5128,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.05686_7.02538_211",
+      "lat": 32.05686,
+      "lng": 7.02538,
+      "radiant_heat_mscf": 4.4392000000000005,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.13319_6.47145_211",
+      "lat": 32.13319,
+      "lng": 6.47145,
+      "radiant_heat_mscf": 7.3408,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.13404_6.46795_211",
+      "lat": 32.13404,
+      "lng": 6.46795,
+      "radiant_heat_mscf": 7.2168,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.13905_6.46965_211",
+      "lat": 32.13905,
+      "lng": 6.46965,
+      "radiant_heat_mscf": 7.2168,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.17463_7.06252_211",
+      "lat": 32.17463,
+      "lng": 7.06252,
+      "radiant_heat_mscf": 1.6368,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.27636_3.9873_211",
+      "lat": 32.27636,
+      "lng": 3.9873,
+      "radiant_heat_mscf": 6.0016,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.4005_4.00715_211",
+      "lat": 32.4005,
+      "lng": 4.00715,
+      "radiant_heat_mscf": 5.4312,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.44212_6.62946_211",
+      "lat": 32.44212,
+      "lng": 6.62946,
+      "radiant_heat_mscf": 1.364,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.44299_6.62595_211",
+      "lat": 32.44299,
+      "lng": 6.62595,
+      "radiant_heat_mscf": 2.232,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.51635_6.71194_211",
+      "lat": 32.51635,
+      "lng": 6.71194,
+      "radiant_heat_mscf": 1.9592,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.54397_6.53501_211",
+      "lat": 32.54397,
+      "lng": 6.53501,
+      "radiant_heat_mscf": 2.0336,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.54596_6.53611_211",
+      "lat": 32.54596,
+      "lng": 6.53611,
+      "radiant_heat_mscf": 3.1,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.54895_6.53668_211",
+      "lat": 32.54895,
+      "lng": 6.53668,
+      "radiant_heat_mscf": 1.0664,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.55376_3.16836_211",
+      "lat": 32.55376,
+      "lng": 3.16836,
+      "radiant_heat_mscf": 5.0344,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.74026_3.18263_211",
+      "lat": 32.74026,
+      "lng": 3.18263,
+      "radiant_heat_mscf": 1.0664,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.74217_3.17362_211",
+      "lat": 32.74217,
+      "lng": 3.17362,
+      "radiant_heat_mscf": 1.8104,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.74438_3.18388_211",
+      "lat": 32.74438,
+      "lng": 3.18388,
+      "radiant_heat_mscf": 1.364,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.74534_3.17936_211",
+      "lat": 32.74534,
+      "lng": 3.17936,
+      "radiant_heat_mscf": 3.8688000000000002,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.7485_3.18513_211",
+      "lat": 32.7485,
+      "lng": 3.18513,
+      "radiant_heat_mscf": 1.364,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.83809_3.23828_211",
+      "lat": 32.83809,
+      "lng": 3.23828,
+      "radiant_heat_mscf": 1.8848,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.92953_3.24412_211",
+      "lat": 32.92953,
+      "lng": 3.24412,
+      "radiant_heat_mscf": 1.736,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.93242_3.23062_211",
+      "lat": 32.93242,
+      "lng": 3.23062,
+      "radiant_heat_mscf": 1.3392000000000002,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.93338_3.22613_211",
+      "lat": 32.93338,
+      "lng": 3.22613,
+      "radiant_heat_mscf": 1.3392000000000002,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.93366_3.24536_211",
+      "lat": 32.93366,
+      "lng": 3.24536,
+      "radiant_heat_mscf": 1.2152,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.93558_3.23635_211",
+      "lat": 32.93558,
+      "lng": 3.23635,
+      "radiant_heat_mscf": 2.5048,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.94574_3.22989_211",
+      "lat": 32.94574,
+      "lng": 3.22989,
+      "radiant_heat_mscf": 1.9096,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.94766_3.22089_211",
+      "lat": 32.94766,
+      "lng": 3.22089,
+      "radiant_heat_mscf": 3.4223999999999997,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.94987_3.23111_211",
+      "lat": 32.94987,
+      "lng": 3.23111,
+      "radiant_heat_mscf": 1.9096,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_27.58158_22.406_1147",
+      "lat": 27.58158,
+      "lng": 22.406,
+      "radiant_heat_mscf": 10.0936,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_27.58489_22.40537_1147",
+      "lat": 27.58489,
+      "lng": 22.40537,
+      "radiant_heat_mscf": 5.332,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_27.64377_22.50192_1147",
+      "lat": 27.64377,
+      "lng": 22.50192,
+      "radiant_heat_mscf": 20.46,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_27.64436_22.5058_1147",
+      "lat": 27.64436,
+      "lng": 22.5058,
+      "radiant_heat_mscf": 4.4392000000000005,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_27.64745_22.48125_1147",
+      "lat": 27.64745,
+      "lng": 22.48125,
+      "radiant_heat_mscf": 19.6168,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_27.64767_22.50517_1147",
+      "lat": 27.64767,
+      "lng": 22.50517,
+      "radiant_heat_mscf": 4.092,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_27.98553_22.32538_1147",
+      "lat": 27.98553,
+      "lng": 22.32538,
+      "radiant_heat_mscf": 13.689599999999999,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_27.98884_22.32474_1147",
+      "lat": 27.98884,
+      "lng": 22.32474,
+      "radiant_heat_mscf": 13.689599999999999,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.0768_9.7894_1147",
+      "lat": 28.0768,
+      "lng": 9.7894,
+      "radiant_heat_mscf": 5.9024,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.08091_9.78942_1147",
+      "lat": 28.08091,
+      "lng": 9.78942,
+      "radiant_heat_mscf": 8.9528,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.08258_9.78756_1147",
+      "lat": 28.08258,
+      "lng": 9.78756,
+      "radiant_heat_mscf": 5.9024,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.53028_9.12355_1147",
+      "lat": 28.53028,
+      "lng": 9.12355,
+      "radiant_heat_mscf": 9.1264,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.63181_9.78776_1147",
+      "lat": 28.63181,
+      "lng": 9.78776,
+      "radiant_heat_mscf": 8.928,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.63523_9.78288_1147",
+      "lat": 28.63523,
+      "lng": 9.78288,
+      "radiant_heat_mscf": 8.556000000000001,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.6364_9.78748_1147",
+      "lat": 28.6364,
+      "lng": 9.78748,
+      "radiant_heat_mscf": 12.152000000000001,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.69381_22.37525_1147",
+      "lat": 28.69381,
+      "lng": 22.37525,
+      "radiant_heat_mscf": 14.384,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.69711_22.37461_1147",
+      "lat": 28.69711,
+      "lng": 22.37461,
+      "radiant_heat_mscf": 4.34,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.73287_9.1561_1147",
+      "lat": 28.73287,
+      "lng": 9.1561,
+      "radiant_heat_mscf": 10.664,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.73499_9.78951_1147",
+      "lat": 28.73499,
+      "lng": 9.78951,
+      "radiant_heat_mscf": 3.8688000000000002,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.73578_9.79065_1147",
+      "lat": 28.73578,
+      "lng": 9.79065,
+      "radiant_heat_mscf": 4.6376,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.82139_22.25864_1147",
+      "lat": 28.82139,
+      "lng": 22.25864,
+      "radiant_heat_mscf": 7.316000000000001,
+      "attribution": {
+        "block": "Sirte Basin",
+        "operator": "NOC Libya",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.91404_9.74766_1147",
+      "lat": 28.91404,
+      "lng": 9.74766,
+      "radiant_heat_mscf": 29.6112,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.10739_9.66599_1147",
+      "lat": 29.10739,
+      "lng": 9.66599,
+      "radiant_heat_mscf": 8.432,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.10855_9.67061_1147",
+      "lat": 29.10855,
+      "lng": 9.67061,
+      "radiant_heat_mscf": 13.491200000000001,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.69249_6.70006_1147",
+      "lat": 29.69249,
+      "lng": 6.70006,
+      "radiant_heat_mscf": 11.135200000000001,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.69624_6.70067_1147",
+      "lat": 29.69624,
+      "lng": 6.70067,
+      "radiant_heat_mscf": 10.713600000000001,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.69987_6.71391_1147",
+      "lat": 29.69987,
+      "lng": 6.71391,
+      "radiant_heat_mscf": 11.8792,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.70267_6.71087_1147",
+      "lat": 29.70267,
+      "lng": 6.71087,
+      "radiant_heat_mscf": 4.6128,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.61285_8.25944_1147",
+      "lat": 30.61285,
+      "lng": 8.25944,
+      "radiant_heat_mscf": 3.4223999999999997,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.6142_8.26455_1147",
+      "lat": 30.6142,
+      "lng": 8.26455,
+      "radiant_heat_mscf": 6.1008,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.89989_5.58497_1147",
+      "lat": 30.89989,
+      "lng": 5.58497,
+      "radiant_heat_mscf": 5.5304,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.0533_8.03315_1147",
+      "lat": 31.0533,
+      "lng": 8.03315,
+      "radiant_heat_mscf": 23.3616,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.0547_8.03834_1147",
+      "lat": 31.0547,
+      "lng": 8.03834,
+      "radiant_heat_mscf": 23.3616,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.18871_6.78598_1147",
+      "lat": 31.18871,
+      "lng": 6.78598,
+      "radiant_heat_mscf": 7.1672,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.23134_8.56177_1147",
+      "lat": 31.23134,
+      "lng": 8.56177,
+      "radiant_heat_mscf": 5.5552,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.39609_6.93676_1147",
+      "lat": 31.39609,
+      "lng": 6.93676,
+      "radiant_heat_mscf": 30.132,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.39747_6.9369_1147",
+      "lat": 31.39747,
+      "lng": 6.9369,
+      "radiant_heat_mscf": 24.874399999999998,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.36325_6.04622_1149",
+      "lat": 31.36325,
+      "lng": 6.04622,
+      "radiant_heat_mscf": 22.2208,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.3651_6.05277_1149",
+      "lat": 31.3651,
+      "lng": 6.05277,
+      "radiant_heat_mscf": 22.2208,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.36539_6.04267_1149",
+      "lat": 31.36539,
+      "lng": 6.04267,
+      "radiant_heat_mscf": 18.104,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.36728_6.04921_1149",
+      "lat": 31.36728,
+      "lng": 6.04921,
+      "radiant_heat_mscf": 37.696,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.58748_5.95563_1149",
+      "lat": 31.58748,
+      "lng": 5.95563,
+      "radiant_heat_mscf": 12.0776,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.66108_6.05247_1149",
+      "lat": 31.66108,
+      "lng": 6.05247,
+      "radiant_heat_mscf": 19.22,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.66293_6.05898_1149",
+      "lat": 31.66293,
+      "lng": 6.05898,
+      "radiant_heat_mscf": 19.22,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.66753_6.05021_1149",
+      "lat": 31.66753,
+      "lng": 6.05021,
+      "radiant_heat_mscf": 19.22,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.69617_5.81012_1149",
+      "lat": 31.69617,
+      "lng": 5.81012,
+      "radiant_heat_mscf": 12.6976,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.74907_5.22601_1149",
+      "lat": 31.74907,
+      "lng": 5.22601,
+      "radiant_heat_mscf": 7.3408,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.78727_6.06423_1149",
+      "lat": 31.78727,
+      "lng": 6.06423,
+      "radiant_heat_mscf": 5.4064000000000005,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.79018_6.0654_1149",
+      "lat": 31.79018,
+      "lng": 6.0654,
+      "radiant_heat_mscf": 6.0512,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.80784_5.83931_1149",
+      "lat": 31.80784,
+      "lng": 5.83931,
+      "radiant_heat_mscf": 5.7288,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.84602_5.05284_1149",
+      "lat": 31.84602,
+      "lng": 5.05284,
+      "radiant_heat_mscf": 6.0512,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.84802_5.05907_1149",
+      "lat": 31.84802,
+      "lng": 5.05907,
+      "radiant_heat_mscf": 9.3,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.13342_6.4738_1149",
+      "lat": 32.13342,
+      "lng": 6.4738,
+      "radiant_heat_mscf": 10.465599999999998,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.13401_6.47342_1149",
+      "lat": 32.13401,
+      "lng": 6.47342,
+      "radiant_heat_mscf": 13.8384,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.13962_6.47141_1149",
+      "lat": 32.13962,
+      "lng": 6.47141,
+      "radiant_heat_mscf": 6.844799999999999,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.51813_6.71113_1149",
+      "lat": 32.51813,
+      "lng": 6.71113,
+      "radiant_heat_mscf": 13.764,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.5473_6.53696_1149",
+      "lat": 32.5473,
+      "lng": 6.53696,
+      "radiant_heat_mscf": 3.9432,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_-7.17228_12.38787_1316",
+      "lat": -7.17228,
+      "lng": 12.38787,
+      "radiant_heat_mscf": 10.6144,
+      "attribution": {
+        "block": "Angola Block 0/17",
+        "operator": "Chevron / Total",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_-6.85746_12.39397_1316",
+      "lat": -6.85746,
+      "lng": 12.39397,
+      "radiant_heat_mscf": 57.7096,
+      "attribution": {
+        "block": "Angola Block 0/17",
+        "operator": "Chevron / Total",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_-6.20858_13.40765_1316",
+      "lat": -6.20858,
+      "lng": 13.40765,
+      "radiant_heat_mscf": 9.176,
+      "attribution": {
+        "block": "Angola Block 0/17",
+        "operator": "Chevron / Total",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_-6.20472_13.40668_1316",
+      "lat": -6.20472,
+      "lng": 13.40668,
+      "radiant_heat_mscf": 13.1192,
+      "attribution": {
+        "block": "Angola Block 0/17",
+        "operator": "Chevron / Total",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_-5.96985_12.99804_1316",
+      "lat": -5.96985,
+      "lng": 12.99804,
+      "radiant_heat_mscf": 16.665599999999998,
+      "attribution": {
+        "block": "Angola Block 0/17",
+        "operator": "Chevron / Total",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_-5.0381_13.82597_1316",
+      "lat": -5.0381,
+      "lng": 13.82597,
+      "radiant_heat_mscf": 8.5312,
+      "attribution": {
+        "block": "Angola Block 0/17",
+        "operator": "Chevron / Total",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_4.51496_7.75981_1321",
+      "lat": 4.51496,
+      "lng": 7.75981,
+      "radiant_heat_mscf": 29.7352,
+      "attribution": {
+        "block": "Niger Delta Basin",
+        "operator": "NNPC / Shell / Chevron",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.07821_9.78683_1325",
+      "lat": 28.07821,
+      "lng": 9.78683,
+      "radiant_heat_mscf": 10.7384,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.08008_9.78872_1325",
+      "lat": 28.08008,
+      "lng": 9.78872,
+      "radiant_heat_mscf": 9.7216,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.52493_9.12288_1325",
+      "lat": 28.52493,
+      "lng": 9.12288,
+      "radiant_heat_mscf": 8.3576,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.52506_9.12066_1325",
+      "lat": 28.52506,
+      "lng": 9.12066,
+      "radiant_heat_mscf": 5.5056,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.63338_9.78785_1325",
+      "lat": 28.63338,
+      "lng": 9.78785,
+      "radiant_heat_mscf": 3.5216,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.68398_7.19354_1325",
+      "lat": 28.68398,
+      "lng": 7.19354,
+      "radiant_heat_mscf": 4.4392000000000005,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.70378_8.94008_1325",
+      "lat": 28.70378,
+      "lng": 8.94008,
+      "radiant_heat_mscf": 4.588,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.73534_9.15273_1325",
+      "lat": 28.73534,
+      "lng": 9.15273,
+      "radiant_heat_mscf": 9.250399999999999,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.73608_9.15255_1325",
+      "lat": 28.73608,
+      "lng": 9.15255,
+      "radiant_heat_mscf": 7.1672,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.91099_9.7461_1325",
+      "lat": 28.91099,
+      "lng": 9.7461,
+      "radiant_heat_mscf": 21.204,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.91597_9.74359_1325",
+      "lat": 28.91597,
+      "lng": 9.74359,
+      "radiant_heat_mscf": 15.797600000000001,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.91633_9.74941_1325",
+      "lat": 28.91633,
+      "lng": 9.74941,
+      "radiant_heat_mscf": 15.797600000000001,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_28.91738_9.74568_1325",
+      "lat": 28.91738,
+      "lng": 9.74568,
+      "radiant_heat_mscf": 21.204,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.10699_9.66786_1325",
+      "lat": 29.10699,
+      "lng": 9.66786,
+      "radiant_heat_mscf": 9.8952,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.10862_9.67006_1325",
+      "lat": 29.10862,
+      "lng": 9.67006,
+      "radiant_heat_mscf": 13.0944,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.69335_6.70175_1325",
+      "lat": 29.69335,
+      "lng": 6.70175,
+      "radiant_heat_mscf": 5.232799999999999,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.69365_6.70563_1325",
+      "lat": 29.69365,
+      "lng": 6.70563,
+      "radiant_heat_mscf": 5.232799999999999,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_29.69964_6.71288_1325",
+      "lat": 29.69964,
+      "lng": 6.71288,
+      "radiant_heat_mscf": 6.7952,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.37562_7.01057_1327",
+      "lat": 30.37562,
+      "lng": 7.01057,
+      "radiant_heat_mscf": 5.183199999999999,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.61156_8.25876_1327",
+      "lat": 30.61156,
+      "lng": 8.25876,
+      "radiant_heat_mscf": 19.4928,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.61187_8.26384_1327",
+      "lat": 30.61187,
+      "lng": 8.26384,
+      "radiant_heat_mscf": 45.6072,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.65512_8.09703_1327",
+      "lat": 30.65512,
+      "lng": 8.09703,
+      "radiant_heat_mscf": 13.367199999999999,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.65544_8.10189_1327",
+      "lat": 30.65544,
+      "lng": 8.10189,
+      "radiant_heat_mscf": 12.4248,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.65854_8.0976_1327",
+      "lat": 30.65854,
+      "lng": 8.0976,
+      "radiant_heat_mscf": 12.6976,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.66135_8.10151_1327",
+      "lat": 30.66135,
+      "lng": 8.10151,
+      "radiant_heat_mscf": 8.0848,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.66474_8.10194_1327",
+      "lat": 30.66474,
+      "lng": 8.10194,
+      "radiant_heat_mscf": 17.930400000000002,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.87544_5.64381_1327",
+      "lat": 30.87544,
+      "lng": 5.64381,
+      "radiant_heat_mscf": 8.2336,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_30.89649_5.58583_1327",
+      "lat": 30.89649,
+      "lng": 5.58583,
+      "radiant_heat_mscf": 6.0016,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.05227_8.03533_1327",
+      "lat": 31.05227,
+      "lng": 8.03533,
+      "radiant_heat_mscf": 11.1104,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.05819_8.03498_1327",
+      "lat": 31.05819,
+      "lng": 8.03498,
+      "radiant_heat_mscf": 11.1104,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.0585_8.03987_1327",
+      "lat": 31.0585,
+      "lng": 8.03987,
+      "radiant_heat_mscf": 24.552,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.18943_6.78748_1327",
+      "lat": 31.18943,
+      "lng": 6.78748,
+      "radiant_heat_mscf": 23.287200000000002,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.18973_6.79162_1327",
+      "lat": 31.18973,
+      "lng": 6.79162,
+      "radiant_heat_mscf": 22.692,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.36084_6.04788_1327",
+      "lat": 31.36084,
+      "lng": 6.04788,
+      "radiant_heat_mscf": 5.456,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.36483_6.04635_1327",
+      "lat": 31.36483,
+      "lng": 6.04635,
+      "radiant_heat_mscf": 13.4416,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.36511_6.05013_1327",
+      "lat": 31.36511,
+      "lng": 6.05013,
+      "radiant_heat_mscf": 13.4416,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.36612_6.04737_1327",
+      "lat": 31.36612,
+      "lng": 6.04737,
+      "radiant_heat_mscf": 27.800800000000002,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.39896_6.93519_1327",
+      "lat": 31.39896,
+      "lng": 6.93519,
+      "radiant_heat_mscf": 6.6216,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.58476_5.95556_1327",
+      "lat": 31.58476,
+      "lng": 5.95556,
+      "radiant_heat_mscf": 14.185599999999999,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.58579_5.95672_1327",
+      "lat": 31.58579,
+      "lng": 5.95672,
+      "radiant_heat_mscf": 8.4816,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.5903_5.95881_1327",
+      "lat": 31.5903,
+      "lng": 5.95881,
+      "radiant_heat_mscf": 7.7623999999999995,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.6612_6.05399_1327",
+      "lat": 31.6612,
+      "lng": 6.05399,
+      "radiant_heat_mscf": 10.8624,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.66148_6.05779_1327",
+      "lat": 31.66148,
+      "lng": 6.05779,
+      "radiant_heat_mscf": 10.8624,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.66177_6.06157_1327",
+      "lat": 31.66177,
+      "lng": 6.06157,
+      "radiant_heat_mscf": 22.8656,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.66619_6.0496_1327",
+      "lat": 31.66619,
+      "lng": 6.0496,
+      "radiant_heat_mscf": 11.5816,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.66648_6.05338_1327",
+      "lat": 31.66648,
+      "lng": 6.05338,
+      "radiant_heat_mscf": 10.8624,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.66677_6.05716_1327",
+      "lat": 31.66677,
+      "lng": 6.05716,
+      "radiant_heat_mscf": 10.8624,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.69621_5.96294_1327",
+      "lat": 31.69621,
+      "lng": 5.96294,
+      "radiant_heat_mscf": 20.0632,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.69647_5.96663_1327",
+      "lat": 31.69647,
+      "lng": 5.96663,
+      "radiant_heat_mscf": 16.8144,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.75135_5.22942_1327",
+      "lat": 31.75135,
+      "lng": 5.22942,
+      "radiant_heat_mscf": 16.9136,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.78715_6.06518_1327",
+      "lat": 31.78715,
+      "lng": 6.06518,
+      "radiant_heat_mscf": 5.5056,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.78743_6.06901_1327",
+      "lat": 31.78743,
+      "lng": 6.06901,
+      "radiant_heat_mscf": 5.5056,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.78928_6.06814_1327",
+      "lat": 31.78928,
+      "lng": 6.06814,
+      "radiant_heat_mscf": 7.6384,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.84848_5.0549_1327",
+      "lat": 31.84848,
+      "lng": 5.0549,
+      "radiant_heat_mscf": 12.3256,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.95831_5.22012_1327",
+      "lat": 31.95831,
+      "lng": 5.22012,
+      "radiant_heat_mscf": 12.970400000000001,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_31.96152_5.21797_1327",
+      "lat": 31.96152,
+      "lng": 5.21797,
+      "radiant_heat_mscf": 34.2488,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.13454_6.46914_1327",
+      "lat": 32.13454,
+      "lng": 6.46914,
+      "radiant_heat_mscf": 10.4408,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.13484_6.47321_1327",
+      "lat": 32.13484,
+      "lng": 6.47321,
+      "radiant_heat_mscf": 10.4408,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.1357_6.46896_1327",
+      "lat": 32.1357,
+      "lng": 6.46896,
+      "radiant_heat_mscf": 10.1928,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.13596_6.47302_1327",
+      "lat": 32.13596,
+      "lng": 6.47302,
+      "radiant_heat_mscf": 10.1928,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.27441_3.98565_1327",
+      "lat": 32.27441,
+      "lng": 3.98565,
+      "radiant_heat_mscf": 5.9768,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    },
+    {
+      "id": "nasa_32.55717_3.16923_1327",
+      "lat": 32.55717,
+      "lng": 3.16923,
+      "radiant_heat_mscf": 13.144,
+      "attribution": {
+        "block": "Hassi Messaoud Basin",
+        "operator": "Sonatrach",
+        "trend": "N/A"
+      }
+    }
+  ]
+}

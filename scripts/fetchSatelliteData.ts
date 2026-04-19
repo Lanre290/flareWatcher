@@ -1,7 +1,5 @@
-// scripts/fetchSatelliteData.js
 import fs from 'fs';
 import path from 'path';
-import fetch from 'node-fetch';
 import { parse } from 'csv-parse/sync';
 import * as turf from '@turf/turf';
 
@@ -42,19 +40,15 @@ type FinalPayload = {
   telemetry: TelemetryPoint[];
 };
 
-// 1. DUMMY GEOJSON FOR ATTRIBUTION (You would replace this with real Oil Block Polygons)
-// This is how the backend knows a flare belongs to Shell or NNPC
-const oilBlocksGeoJSON = {
-  type: "FeatureCollection",
-  features: [
-    {
-      type: "Feature",
-      properties: { block: "OML 17", operator: "NNPC" },
-      geometry: { type: "Polygon", coordinates: [[[6.9, 4.7], [7.2, 4.7], [7.2, 4.9], [6.9, 4.9], [6.9, 4.7]]] }
-    }
-    // Add more African blocks here...
-  ]
-} as const;
+// 1. DUMMY GEOJSON FOR ATTRIBUTION 
+// FIX: Using Turf's built-in functions to generate the GeoJSON fixes all TypeScript errors automatically.
+const oilBlocksGeoJSON = turf.featureCollection([
+  turf.polygon(
+    [[[6.9, 4.7], [7.2, 4.7], [7.2, 4.9], [6.9, 4.9], [6.9, 4.7]]], 
+    { block: "OML 17", operator: "NNPC" } as OilBlockProperties
+  )
+  // Add more African blocks here...
+]);
 
 const AFRICA_BOUNDS = {
   minLat: -35,
@@ -81,16 +75,6 @@ async function runPipeline() {
   console.log("🚀 BOOTING SATELLITE PIPELINE...");
 
   try {
-    // STEP 1: GET THE LATEST CSV URL FROM EOG
-    // NOTE: You need to register at eogdata.mines.edu for a free Bearer token
-    console.log("📡 Pinging EOG Servers...");
-    /* const indexRes = await fetch('https://eogdata.mines.edu/api/v1/products/vnf/daily', {
-      headers: { 'Authorization': `Bearer ${process.env.EOG_TOKEN}` }
-    });
-    const indexData = await indexRes.json();
-    const latestCsvUrl = indexData[0].url; // Extract the actual file URL
-    */
-   
     // For this example, we'll simulate downloading the CSV data
     const mockCsvData = `id,Lat,Lon,rad_heat,temp_bg
 V1,4.8156,7.0498,45.2,290
@@ -118,26 +102,24 @@ V4,45.0000,-100.0000,50.0,280`; // V4 is in USA, should be filtered out
         return;
       }
 
-      // Africa Bounding Box (Roughly Lat: -35 to 37, Lng: -17 to 51)
+      // Africa Bounding Box
       if (isWithinAfricaBounds(lat, lng)) {
         
-        // Convert Megawatts (Satellite Raw) to MSCF (Volume)
-        // Note: Use a scientifically backed multiplier for the hackathon
         const estimatedMscf = radiantHeatMW * 2.48; 
 
         // STEP 4: GEOSPATIAL ATTRIBUTION (The Magic)
-        // Check if this flare falls inside any known Oil Block
         const flarePoint = turf.point([lng, lat]);
         let attribution: Attribution | null = null;
 
+        // FIX: No more TS type casting needed here!
         for (const block of oilBlocksGeoJSON.features) {
-          if (turf.booleanPointInPolygon(flarePoint, block as turf.helpers.Feature<turf.helpers.Polygon, OilBlockProperties>)) {
+          if (turf.booleanPointInPolygon(flarePoint, block)) {
             attribution = {
               block: block.properties.block,
               operator: block.properties.operator,
-              trend: "N/A" // Would calculate trend vs yesterday's data
+              trend: "N/A" 
             };
-            break; // Found the owner, stop searching
+            break; 
           }
         }
 
@@ -162,8 +144,14 @@ V4,45.0000,-100.0000,50.0,280`; // V4 is in USA, should be filtered out
       telemetry: africanFlares
     };
 
-    // STEP 6: SAVE TO DISK (Where the Next.js API can instantly read it)
+    // STEP 6: SAVE TO DISK
     const outputPath = path.join(process.cwd(), 'public', 'latest_flares.json');
+    
+    // Safety check: ensure public directory exists before writing
+    if (!fs.existsSync(path.dirname(outputPath))) {
+      fs.mkdirSync(path.dirname(outputPath), { recursive: true });
+    }
+
     fs.writeFileSync(outputPath, JSON.stringify(finalPayload, null, 2));
     
     console.log(`✅ PIPELINE COMPLETE. Saved ${africanFlares.length} active flares to disk.`);
