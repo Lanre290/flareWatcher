@@ -8,7 +8,7 @@ import { runTelemetryPipeline } from './../services/pipeline';
 
 const app = express();
 const PORT = process.env.PORT || 8080;
-const DATA_PATH = path.join(process.cwd(), 'public', 'latest_flares.json');
+const DATA_PATH = path.join(__dirname, '..', 'public', 'latest_flares.json');
 
 // CORS setup
 app.use((req, res, next) => {
